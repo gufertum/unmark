@@ -10,7 +10,6 @@ application/config/*/**
 !application/config/all/*
 .sass-cache/
 application/cache/db_backups
-custom
 node_modules
 .sass-cache
 assets/css/.sass-cache/*
